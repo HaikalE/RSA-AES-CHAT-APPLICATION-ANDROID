@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMRSAAES</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="url_backend">http://192.168.122.38:5000/</string>
+
+</resources>
