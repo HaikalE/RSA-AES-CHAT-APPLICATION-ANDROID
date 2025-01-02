@@ -27,10 +27,6 @@ import kotlin.math.min
 
 
 
-
-/**
- * Created by tehcpu on 11/12/17.
- */
 class AES {
     // current round index
     private var actual = 0
